@@ -16,6 +16,10 @@ Breaking into Information Security: Learning the Ropes 101 by Andy Gill - https:
 
 # Courses
 
+(Free) Advanced Penetration Testing by Georgia Weidman - https://www.cybrary.it/course/advanced-penetration-testing/
+
+Practical Ethical Hacking - The Complete Course by Heath Adams - https://www.udemy.com/course/practical-ethical-hacking/
+
 # Youtube
 
 # Practical Lessons
