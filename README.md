@@ -22,5 +22,7 @@ Practical Ethical Hacking - The Complete Course by Heath Adams - https://www.ude
 
 # Youtube
 
+Python Course - https://youtu.be/_uQrJ0TkZlc
+
 # Practical Lessons
 
