@@ -26,6 +26,8 @@ Python Course - https://youtu.be/_uQrJ0TkZlc
 
 # Practical Lessons
 
+Portswigger Academy - https://portswigger.net/web-security/all-labs
+
 # Websites
 
 https://www.url-encode-decode.com/ - URL Encode and Decode
