@@ -28,4 +28,4 @@ Python Course - https://youtu.be/_uQrJ0TkZlc
 
 # Websites
 
-https://www.url-encode-decode.com/ - Encode and Decode (HTML, hex, ASCII)
+https://www.url-encode-decode.com/ - URL Encode and Decode
