@@ -26,3 +26,6 @@ Python Course - https://youtu.be/_uQrJ0TkZlc
 
 # Practical Lessons
 
+# Websites
+
+https://www.url-encode-decode.com/ - Encode and Decode (HTML, hex, ASCII)
