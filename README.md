@@ -20,6 +20,8 @@ Breaking into Information Security: Learning the Ropes 101 by Andy Gill - https:
 
 Practical Ethical Hacking - The Complete Course by Heath Adams - https://www.udemy.com/course/practical-ethical-hacking/
 
+($69 usd) 100 Days of Code in Python - https://training.talkpython.fm/courses/explore_100days_in_python/100-days-of-code-in-python
+
 # Youtube
 
 Python Course - https://youtu.be/_uQrJ0TkZlc
