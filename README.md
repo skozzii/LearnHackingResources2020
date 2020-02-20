@@ -32,4 +32,9 @@ Portswigger Academy - https://portswigger.net/web-security/all-labs
 
 # Websites
 
-https://www.url-encode-decode.com/ - URL Encode and Decode
+URL Encode and Decode - https://www.url-encode-decode.com/
+
+# Misc Technologies to Learn
+
+GraphQL - https://www.edx.org/course/exploring-graphql-a-query-language-for-apis
+PHP & mySQL - https://www.udemy.com/share/101sfeA0EaeF9QQ3g=/
