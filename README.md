@@ -1,5 +1,5 @@
 # HackingResources
-HackingResources for learning in 2020.  This is a list I have curated while I have been learning how to Hack.  I have provided all links to support to creators of the content, although these resources are obviously available elsewhere.  This list will continue to change, grow and evolve as I change, grow and evolve.  
+HackingResources for learning in 2021.  This is a list I have curated while I have been learning how to Hack.  I have provided all links to support to creators of the content, although these resources are obviously available elsewhere.  This list will continue to change, grow and evolve as I change, grow and evolve.  
 
 # Books -
 
@@ -24,11 +24,38 @@ Practical Ethical Hacking - The Complete Course by Heath Adams - https://www.ude
 
 # Youtube
 
+Codingo: Bug Bounty specific videos - https://www.youtube.com/channel/UCUfO02gdMDXgOJWdv_jiLMg
+
+Nahamsec: HackerOne Employee, Bug Bounty Hunter, goes through examples - https://www.youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw
+
+STOK: Broad industry overview and news, inspiration - https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg
+
+John Hammond: CTFs and specific breakdowns - https://www.youtube.com/user/RootOfTheNull
+
+The Cyber Mentor: Courses and pentest based material - https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw
+
+InsiderPhD: Bug Bounty specific tutorials and lessons - https://www.youtube.com/channel/UCPiN9NPjIer8Do9gUFxKv7A
+
+zSeano: Bug Bounty Hunter - https://www.youtube.com/channel/UCCUFgj-52_ryvpQUacylRpg
+
+Bugcrowd: Bug Bounty Platform - https://www.youtube.com/channel/UCo1NHk_bgbAbDBc4JinrXww
+
+HakLuke: Bugcrowd employee and bounty hunter - https://www.youtube.com/channel/UCCzvz8jsulXm27Cd6k3vzyg
+
+NullByte: New equipment and hacking techniques, more for entertainment than practical -  https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g
+
+
+Professor Messor: Learn networking in depth for Network+ - https://www.youtube.com/channel/UCkefXKtInZ9PLsoGRtml2FQ
+
+
+
 Python Course - https://youtu.be/_uQrJ0TkZlc
 
 # Practical Lessons
 
 Portswigger Academy - https://portswigger.net/web-security/all-labs
+
+Hackthebox - https://www.hackthebox.eu/
 
 # Websites
 
